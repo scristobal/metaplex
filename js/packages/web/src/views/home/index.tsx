@@ -13,6 +13,7 @@ export const HomeView = () => {
 
   return (
     <Layout style={{ margin: 0, marginTop: 30, alignItems: 'center' }}>
+      <p>Welcome to #4quakers NFT market</p>
       {showAuctions ? <AuctionListView /> : <SetupView />}
     </Layout>
   );
