@@ -66,7 +66,7 @@
     "@types/jest": "^24.9.1",
     "@types/node": "^12.12.62",
     "arweave-deploy": "^1.9.1",
-    "gh-pages": "^3.1.0",
+    "gh-pages": "^5.0.0",
     "less": "^4.1.1",
     "less-watch-compiler": "v1.14.6",
     "prettier": "^2.1.2"
